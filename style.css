@@ -1,0 +1,24 @@
+
+body {
+    font-family: sans-serif;
+    text-align: center;
+    background: #f0f0f0;
+    padding: 20px;
+}
+input {
+    padding: 10px;
+    width: 60%;
+    margin-bottom: 20px;
+}
+#outputArea div {
+    margin: 10px 0;
+    padding: 10px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 0 0 5px rgba(0,0,0,0.1);
+}
+footer {
+    margin-top: 40px;
+    font-size: 0.9em;
+    color: gray;
+}
